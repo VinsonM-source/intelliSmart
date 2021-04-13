@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "intelliSmart", "intelliSmart\intelliSmart.csproj", "{EC9EAE46-FC64-40E0-9BAA-65423AD450C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC9EAE46-FC64-40E0-9BAA-65423AD450C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9EAE46-FC64-40E0-9BAA-65423AD450C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9EAE46-FC64-40E0-9BAA-65423AD450C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9EAE46-FC64-40E0-9BAA-65423AD450C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E324DBC3-5F60-40E8-86EB-6B98A54A5530}
+	EndGlobalSection
+EndGlobal
